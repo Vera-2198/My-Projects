@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    background: blueviolet;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 50px;
+    width: 100px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+#twelve-el {
+    font-size: 100px;
+    color: red;
+    background: black;
+    padding: 0px 30px 0px 30px;
+    max-width: 50%;
+    display: flex;
+}
+h3 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    color: white;
+}
+#five-el {
+    font-size: 100px;
+    color: red;
+    background: black;
+    padding: 0px 30px 0px 30px;
+    max-width: 50%;
+}
+#adds {
+    font-size:20px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 0px 5px 1px 5px;
+}
+.no {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+#two {
+    font-size:20px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 0px 5px 0px 5px;
+    margin-left: 3px
+}
+#three {
+    font-size:20px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 0px 5px 0px 5px;
+    margin-left: 3px
+}
+#first {
+    font-size:20px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 0px 5px 0px 5px;
+}
+#second {
+    font-size:20px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 0px 5px 0px 5px;
+    margin-left: 3px
+}
+.sec {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#third {
+    font-size:20px;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 0px 5px 0px 5px;
+    margin-left: 3px
+}
+#btn {
+    background: red;
+    width:110px;
+}
